@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Common/!svn/ver/1912/Frameworks/iOS/EVTUtils/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Common/!svn/ver/1778/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASICacheDelegate.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/LICENSE
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Common/!svn/ver/1753/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Common/!svn/ver/1912/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Common/!svn/ver/840/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Common/!svn/ver/1681/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Common/!svn/ver/1711/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIDataCompressor.h
+END
+README.textile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/README.textile
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Common/!svn/ver/539/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Common/!svn/ver/1912/Frameworks/iOS/EVTUtils/ASIHTTPRequest/ASIDataCompressor.m
+END
